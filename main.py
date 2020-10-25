@@ -24,7 +24,7 @@ def reboot(a):
 
 def conshelp(a):
     print(' ')
-    print('Testshell commands')
+    print('Pyshell commands')
     print('help - Shows help')
     print('exit - Exits')
     print('time - Shows the time of the server or if run locally your pc time')
