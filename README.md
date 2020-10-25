@@ -3,6 +3,7 @@ Shell made in python with plugin support
 
 Plugins can be made as simple as this
 ```python
+pluginName = 'MyPlugin'
 def commandname(a):
   print('I made a plugin!')
 ```
