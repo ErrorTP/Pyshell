@@ -1,4 +1,4 @@
-# ![Pyshell Logo](https://raw.githubusercontent.com/ErrorTheProgrammer/Pyshell/main/READMEassets/Pyshelllogo.png = 10x10) Pyshell
+# ![Pyshell Logo](https://raw.githubusercontent.com/ErrorTheProgrammer/Pyshell/main/READMEassets/Pyshelllogo.png=10x10) Pyshell
 Shell made in python with plugin support
 
 Plugins can be made as simple as this
