@@ -6,3 +6,5 @@ Plugins can be made as simple as this
 def commandname():
   print('I made a plugin!')
 ```
+
+name is subject to change
