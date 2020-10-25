@@ -30,6 +30,7 @@ def conshelp(a):
     print('time - Shows the time of the server or if run locally your pc time')
     print('pyloader - download extensions via url see https://Pyshell-Plugin-Portal.errortp.repl.co')
     print('reboot - Restarts the shell')
+    print('pyloader - downloads pyshell plugins via url')
     print(' ')
 
 
